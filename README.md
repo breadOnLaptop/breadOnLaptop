@@ -14,7 +14,7 @@ Aspiring **Web Software Developer** passionate about creating seamless and effic
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 
 ## 📈 GitHub Stats
-![Peeyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeeyushMaurya&show_icons=true&theme=radical)
+![Peeyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peeyush-04&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 - LinkedIn: [Peeyush Maurya](www.linkedin.com/in/peeyushmaurya)

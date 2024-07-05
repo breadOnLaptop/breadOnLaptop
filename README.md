@@ -17,16 +17,15 @@ Aspiring **Web Software Developer** passionate about creating seamless and effic
 ![Peeyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeeyushMaurya&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- LinkedIn: [Peeyush Maurya](https://www.linkedin.com/in/peeyush-maurya)
-- Email: peeyush.maurya@example.com
+- LinkedIn: [Peeyush Maurya](www.linkedin.com/in/peeyushmaurya)
+- Email: peeyushmaurya2004@gmail.com
 
 ## 🌟 Projects
-- [Project 1](https://github.com/PeeyushMaurya/project1): Brief description of Project 1
-- [Project 2](https://github.com/PeeyushMaurya/project2): Brief description of Project 2
+- [Project 1](https://github.com/Peeyush-04/Slum-Vulnerabilities-Project): Brief description of Project 1
 
 ## 💬 Let's Connect
 I'm always open to collaborating on interesting projects and discussing innovative ideas. Feel free to reach out to me!
 
 ---
 
-⭐️ From [Peeyush Maurya](https://github.com/PeeyushMaurya)
+⭐️ From [Peeyush Maurya](https://github.com/Peeyush-04)

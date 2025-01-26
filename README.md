@@ -20,9 +20,6 @@ Aspiring **Web Software Developer** passionate about creating seamless and effic
 - LinkedIn: [Peeyush Maurya](www.linkedin.com/in/peeyushmaurya)
 - Email: peeyushmaurya2004@gmail.com
 
-## 🌟 Projects
-- [Project 1](https://github.com/Peeyush-04/Slum-Vulnerabilities-Project): Brief description of Project 1
-
 ## 💬 Let's Connect
 I'm always open to collaborating on interesting projects and discussing innovative ideas. Feel free to reach out to me!
 

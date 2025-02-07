@@ -2,94 +2,84 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Peeyush | Futuristic Developer Profile</title>
-  <!-- Load the JetBrains Mono NL font (no ligatures) -->
+  <title>Peeyush | Software Developer</title>
+  <!-- Load the JetBrains Mono NL font -->
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
-  <!-- Load Font Awesome for modern icons -->
+  <!-- Load Font Awesome for icons -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" 
         integrity="sha512-xh6O/CXUPt2e6EoynCBm86Z/qXUEF2pZ70SE0uZfU0qfXVxX+U7+eRQHq8o0ukjv30w7LqozK+Gd6LZr/rF1aQ==" 
         crossorigin="anonymous" referrerpolicy="no-referrer" />
   <style>
-    /* Global Reset */
+    /* Reset & Global Styles */
     * {
       margin: 0;
       padding: 0;
       box-sizing: border-box;
     }
     body {
+      background: #121212;
+      color: #e0e0e0;
       font-family: 'JetBrains Mono', monospace;
-      background: radial-gradient(ellipse at center, #0f0f0f, #000);
-      color: #fff;
-      overflow-x: hidden;
       line-height: 1.6;
-    }
-    /* Neon border with animated gradient */
-    .neon-border {
-      border: 2px solid #00C9FF;
-      border-radius: 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
       padding: 20px;
-      margin: 40px auto;
-      max-width: 900px;
-      position: relative;
-      overflow: hidden;
     }
-    .neon-border::before {
-      content: '';
-      position: absolute;
-      top: -50%;
-      left: -50%;
-      width: 200%;
-      height: 200%;
-      background: conic-gradient(from 0deg, #00C9FF, #FF00FF, #00FF90, #00C9FF);
-      animation: rotate 4s linear infinite;
-      filter: blur(20px);
+    /* Main Container */
+    .container {
+      max-width: 800px;
+      width: 100%;
+      background: #1e1e1e;
+      border-radius: 10px;
+      padding: 40px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.6);
     }
-    .neon-border > * {
-      position: relative;
-      z-index: 1;
-    }
-    @keyframes rotate {
-      0% { transform: rotate(0deg); }
-      100% { transform: rotate(360deg); }
-    }
-    /* Header Styles */
-    .header h1 {
-      font-size: 3rem;
+    /* Header */
+    .header {
       text-align: center;
-      text-shadow: 0 0 8px #00C9FF;
+      margin-bottom: 30px;
+    }
+    .header h1 {
+      font-size: 2.5rem;
+      color: #00C9FF;
       margin-bottom: 10px;
     }
     .header p {
-      text-align: center;
       font-size: 1.2rem;
-      color: #00C9FF;
-      margin-bottom: 30px;
+      color: #cccccc;
     }
-    /* Section Styles */
-    .section {
-      margin: 20px 0;
-    }
+    /* Section Titles */
     .section h2 {
-      font-size: 2rem;
-      margin-bottom: 10px;
+      font-size: 1.8rem;
+      margin-bottom: 15px;
+      color: #00C9FF;
       border-bottom: 1px solid #00C9FF;
       display: inline-block;
+      padding-bottom: 5px;
     }
-    .section p, .section li {
-      font-size: 1.1rem;
-      margin-bottom: 8px;
+    /* Section Content */
+    .section p,
+    .section li {
+      font-size: 1rem;
+      margin-bottom: 10px;
+    }
+    .section ul {
+      list-style-type: disc;
+      margin-left: 20px;
     }
     /* Tech Stack Icons */
     .tech-stack {
       display: flex;
       flex-wrap: wrap;
-      justify-content: center;
       gap: 15px;
+      justify-content: center;
       margin-top: 15px;
     }
     .tech-stack img {
-      width: 50px;
-      height: 50px;
+      width: 40px;
+      height: 40px;
     }
     /* Social Links */
     .social-links {
@@ -97,75 +87,53 @@
       margin-top: 30px;
     }
     .social-links a {
-      font-size: 2.5rem;
-      margin: 0 15px;
-      color: #fff;
-      transition: transform 0.3s, color 0.3s;
+      color: #e0e0e0;
+      font-size: 1.8rem;
+      margin: 0 10px;
+      transition: color 0.3s ease;
     }
     .social-links a:hover {
-      transform: scale(1.2);
       color: #00C9FF;
     }
-    /* Footer Quote */
+    /* Footer */
     .footer {
       text-align: center;
-      margin-top: 40px;
       font-style: italic;
-      font-size: 1.2rem;
-    }
-    /* Optional: Futuristic Background Animation */
-    .background-animation {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      z-index: -1;
-      background: url('https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif') no-repeat center center/cover;
-      opacity: 0.1;
-      animation: backgroundPulse 10s ease-in-out infinite;
-    }
-    @keyframes backgroundPulse {
-      0%, 100% { opacity: 0.1; }
-      50% { opacity: 0.2; }
+      margin-top: 30px;
+      font-size: 1rem;
+      color: #aaaaaa;
     }
   </style>
 </head>
 <body>
-  <!-- Optional animated background -->
-  <div class="background-animation"></div>
-
-  <div class="neon-border">
+  <div class="container">
+    <!-- Header -->
     <div class="header">
-      <h1>👾 Peeyush</h1>
-      <p>Software Developer | React Native | C++ | Java | Competitive Coder | Futuristic Thinker</p>
+      <h1>Peeyush</h1>
+      <p>Software Developer | React Native | C++ | Java | Competitive Coder</p>
     </div>
-
     <!-- About Me -->
     <div class="section about-me">
       <h2>About Me</h2>
       <p>
-        I'm a passionate software developer with a futuristic vision. Specializing in React Native, C++, and Java, I love crafting innovative solutions that push the boundaries of technology.
+        I am a forward-thinking software developer with a passion for creating efficient and innovative solutions.
+        With expertise in React Native, C++, and Java, I focus on clean, maintainable code and staying ahead of industry trends.
       </p>
     </div>
-
-    <!-- Current Interests -->
+    <!-- Interests -->
     <div class="section interests">
-      <h2>Current Interests</h2>
+      <h2>Interests</h2>
       <ul>
-        <li><strong>Mobile Development:</strong> Crafting immersive experiences with React Native.</li>
-        <li><strong>Competitive Programming:</strong> Pushing my limits in algorithmic challenges with C++.</li>
-        <li><strong>Java Innovations:</strong> Building robust, scalable applications.</li>
-        <li><strong>AI & Machine Learning:</strong> Exploring the frontiers of artificial intelligence.</li>
-        <li><strong>Web Futurism:</strong> Designing sleek, modern interfaces.</li>
+        <li><strong>Mobile Development:</strong> Crafting seamless experiences with React Native.</li>
+        <li><strong>Competitive Programming:</strong> Solving complex challenges with elegant algorithms.</li>
+        <li><strong>Java Innovations:</strong> Building robust and scalable applications.</li>
+        <li><strong>AI & ML:</strong> Integrating smart technologies for next-generation solutions.</li>
       </ul>
     </div>
-
     <!-- Tech Stack -->
     <div class="section tech-stack-section">
       <h2>Tech Stack</h2>
       <div class="tech-stack">
-        <!-- Dynamic icons from skillicons.dev -->
         <img src="https://skillicons.dev/icons?i=cpp" alt="C++">
         <img src="https://skillicons.dev/icons?i=java" alt="Java">
         <img src="https://skillicons.dev/icons?i=react" alt="React Native">
@@ -178,34 +146,25 @@
         <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio">
       </div>
     </div>
-
     <!-- Projects -->
     <div class="section projects">
       <h2>Projects</h2>
       <ul>
-        <li><strong>Connect Us:</strong> A React Native module fostering dynamic student interactions.</li>
-        <li><strong>File Finder App:</strong> A powerful tool for swift and efficient file searches.</li>
-        <li><strong>Smart Slum Initiative:</strong> Leveraging data-driven insights for urban transformation.</li>
+        <li><strong>Connect Us:</strong> A dynamic platform for peer-to-peer interactions built with React Native.</li>
+        <li><strong>File Finder App:</strong> A high-performance tool for efficient file searches.</li>
+        <li><strong>Smart Slum Initiative:</strong> Data-driven solutions for urban transformation.</li>
       </ul>
     </div>
-
     <!-- Social Links -->
     <div class="section social-links">
-      <h2>Let's Connect</h2>
-      <a href="https://github.com/peeyush6" target="_blank" title="GitHub">
-        <i class="fab fa-github"></i>
-      </a>
-      <a href="https://www.linkedin.com/in/your-profile" target="_blank" title="LinkedIn">
-        <i class="fab fa-linkedin"></i>
-      </a>
-      <a href="mailto:your-email@example.com" target="_blank" title="Email">
-        <i class="fas fa-envelope"></i>
-      </a>
+      <h2>Connect</h2>
+      <a href="https://github.com/peeyush6" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/your-profile" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="mailto:your-email@example.com" target="_blank" title="Email"><i class="fas fa-envelope"></i></a>
     </div>
-
-    <!-- Footer Quote -->
+    <!-- Footer -->
     <div class="footer">
-      "Code with passion, build with futuristic dreams." ✨
+      "Coding the future, one line at a time."
     </div>
   </div>
 </body>

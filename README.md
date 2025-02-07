@@ -1,11 +1,11 @@
-<div align="center" style="background: url('https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif'); background-size: cover; padding: 20px; border-radius: 10px;">
+<div align="center" style="background: url('https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif'); background-size: cover; padding: 20px; border-radius: 10px; color: white;">
 
 # 👋 Hi there, I'm **Peeyush**
 
 ![Welcome](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Passionate+Software+Developer;React+Native+%7C+C%2B%2B+%7C+Java;Competitive+Programmer+%7C+AI+Enthusiast)
 
 🚀 **About Me:**  
-I'm a passionate software developer focused on **React Native**, **C++**, **Java**, and **Competitive Coding**. I love solving complex problems, building efficient applications, and constantly learning new technologies to stay ahead in the ever-evolving tech world. 
+I'm a passionate software developer focused on **React Native**, **C++**, **Java**, and **Competitive Coding**. I love solving complex problems, building efficient applications, and constantly learning new technologies to stay ahead in the ever-evolving tech world.
 
 ---
 
@@ -31,7 +31,7 @@ I'm a passionate software developer focused on **React Native**, **C++**, **Java
 ---
 
 🌟 **Projects:**  
-- 🚀 **Conect Us:** A React Native community module for peer-to-peer student interaction.  
+- 🚀 **Connect Us:** A React Native community module for peer-to-peer student interaction.  
 - 🔍 **File Finder App:** Optimized file searching tool for laptops and mobiles.  
 - 🏙️ **Smart Slum Initiative:** Data-driven solutions for urban development.  
 

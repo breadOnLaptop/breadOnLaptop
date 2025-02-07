@@ -11,7 +11,7 @@ I’m a forward-thinking Software Developer focused on crafting clean, efficient
 
 ## 🚀 About Me
 
-I believe in building software that not only solves problems today but also anticipates the challenges of tomorrow. My approach is simple yet futuristic—combining minimalism with precision engineering.
+I believe in building software that not only solves today’s problems but also anticipates tomorrow’s challenges. My approach is simple yet futuristic—combining minimalism with precision engineering.
 
 ---
 
@@ -20,7 +20,7 @@ I believe in building software that not only solves problems today but also anti
 - **Mobile Development:** Creating seamless, intuitive apps with React Native.
 - **Algorithmic Excellence:** Solving complex challenges with elegant code.
 - **Scalable Software:** Building robust systems with Java and C++.
-- **AI & Machine Learning:** Integrating smart solutions for a better future.
+- **AI & ML:** Integrating smart solutions for a better future.
 
 ---
 
@@ -43,18 +43,17 @@ I believe in building software that not only solves problems today but also anti
 ## 🔗 Connect With Me
 
 <div align="center">
-  <a href="https://github.com/peeyush6" target="_blank" title="GitHub">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/peeyush6" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40" style="margin: 0 15px;" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" style="margin: 0 15px;" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank" title="Email">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="40" height="40" style="margin: 0 15px;" />
   </a>
 </div>
 
 ---
 
 > "Coding the future, one line at a time."
-

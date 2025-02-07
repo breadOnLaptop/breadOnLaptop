@@ -33,7 +33,7 @@ I build software that not only solves today's problems but also anticipates tomo
 
 ## 📁 Projects
 
-- **Connect Us:** A dynamic platform for peer-to-peer interactions built with React Native.
+- **UniUnite:** A dynamic platform for peer-to-peer interactions built with React Native.
 - **File Finder App:** A high-performance tool for streamlined file searches.
 - **Smart Slum Initiative:** Data-driven solutions aimed at urban transformation.
 
@@ -59,17 +59,17 @@ I build software that not only solves today's problems but also anticipates tomo
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=peeyush6&show_icons=true&theme=dark" alt="GitHub Stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=Peeyush-04&show_icons=true&theme=dark" alt="GitHub Stats" width="400">
 </div>
 
 <div align="center">
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peeyush6&layout=compact&theme=dark" alt="Top Languages" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peeyush-04&layout=compact&theme=dark" alt="Top Languages" width="400">
 </div>
 
 <div align="center">
   <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peeyush6&theme=dark" alt="GitHub Streak" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Peeyush-04&theme=dark" alt="GitHub Streak" width="400">
 </div>
 
 > "Coding the future, one line at a time."

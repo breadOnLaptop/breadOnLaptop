@@ -37,10 +37,12 @@ I'm a passionate software developer focused on **React Native**, **C++**, **Java
 
 ---
 
-📈 **What I'm Up To:**  
-- 🌱 Learning **AI integration** with mobile and software apps  
-- 🚀 Improving my **competitive programming** skills  
-- 💼 Working on real-world projects to sharpen my **development expertise**  
+📈 **GitHub Stats:**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=peeyush6&show_icons=true&theme=radical" alt="Peeyush's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peeyush6&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
 ---
 

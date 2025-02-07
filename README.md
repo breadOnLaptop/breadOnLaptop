@@ -1,9 +1,60 @@
-# Hi there, I'm Peeyush 👋
+<!-- Centered Animated Intro -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=4000&color=00C9FF&center=true&vCenter=true&width=600&lines=Software+Developer;React+Native+|+C%2B%2B+|+Java;Competitive+Programmer;AI+Enthusiast" alt="Animated Intro"/>
+</div>
 
-I'm a Software Developer with a passion for futuristic tech and innovative solutions. 
+# 👋 Hi, I'm **Peeyush**
 
-[🌐 Explore My Futuristic Portfolio]([https://yourusername.github.io/your-repo](https://peeyush-04.github.io/Peeyush-04/))
+I’m a forward-thinking Software Developer focused on crafting clean, efficient code and innovative solutions. My expertise spans **React Native**, **C++**, **Java**, and Competitive Programming—with a passion for leveraging cutting-edge technology.
 
 ---
 
-*Code with passion, build with futuristic dreams.* ✨
+## 🚀 About Me
+
+I believe in building software that not only solves problems today but also anticipates the challenges of tomorrow. My approach is simple yet futuristic—combining minimalism with precision engineering.
+
+---
+
+## 🎯 Interests
+
+- **Mobile Development:** Creating seamless, intuitive apps with React Native.
+- **Algorithmic Excellence:** Solving complex challenges with elegant code.
+- **Scalable Software:** Building robust systems with Java and C++.
+- **AI & Machine Learning:** Integrating smart solutions for a better future.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,react,js,html,css,python,git,vscode,androidstudio" alt="Tech Stack" />
+</div>
+
+---
+
+## 📁 Projects
+
+- **Connect Us:** A dynamic platform for peer-to-peer interactions built with React Native.
+- **File Finder App:** A high-performance tool for streamlined file searches.
+- **Smart Slum Initiative:** Data-driven solutions aimed at urban transformation.
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/peeyush6" target="_blank" title="GitHub">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank" title="Email">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+---
+
+> "Coding the future, one line at a time."
+

@@ -67,9 +67,4 @@ I build software that not only solves today's problems but also anticipates tomo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peeyush-04&layout=compact&theme=dark" alt="Top Languages" width="400">
 </div>
 
-<div align="center">
-  <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Peeyush-04&theme=dark" alt="GitHub Streak" width="400">
-</div>
-
 > "Coding the future, one line at a time."

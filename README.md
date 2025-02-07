@@ -69,7 +69,7 @@ I build software that not only solves today's problems but also anticipates tomo
 
 <div align="center">
   <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Peeyush-04&theme=dark" alt="GitHub Streak" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Peeyush-04&theme=dark" alt="GitHub Streak" width="400">
 </div>
 
 > "Coding the future, one line at a time."

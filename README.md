@@ -42,7 +42,7 @@ I build software that not only solves today's problems but also anticipates tomo
 ## 🔗 Let's Connect
 
 <div align="center">
-  <a href="https://github.com/Peeyush-4" target="_blank">
+  <a href="https://github.com/Peeyush-04" target="_blank">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/peeyushmaurya" target="_blank">

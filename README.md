@@ -42,13 +42,13 @@ I build software that not only solves today's problems but also anticipates tomo
 ## 🔗 Let's Connect
 
 <div align="center">
-  <a href="https://github.com/peeyush6" target="_blank">
+  <a href="https://github.com/Peeyush-4" target="_blank">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40">
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/peeyushmaurya" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40">
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:peeyushmaurya2004@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="40" height="40">
   </a>
 </div>

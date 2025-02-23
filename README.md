@@ -36,7 +36,9 @@ I build software that not only solves today's problems but also anticipates tomo
 - **UniUnite:** A dynamic platform for peer-to-peer interactions built with React Native.
 - **File Finder App:** A high-performance tool for streamlined file searches.
 - **Smart Slum Initiative:** Data-driven solutions aimed at urban transformation.
-
+- **C/CPP Animations:** A collection of graphical and algorithmic animations implemented using C and C++ to visualize complex concepts.
+-  **Networking:** A Cisco Packet Tracer-based project demonstrating IP addressing, static routing, and inter-network communication between multiple buildings.
+- **Smart Process Manager:** A system designed to optimize and automate task management for improved efficiency and workflow.
 ---
 
 ## 🔗 Let's Connect

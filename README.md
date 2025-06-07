@@ -47,27 +47,13 @@ I’m a 3rd-year B.Tech Computer Science student who’s passionate about turnin
 
 ## Connect With Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/peeyushmaurya" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/BobKurba/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://codeforces.com/profile/opt1mal" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Codeforces_logo.svg" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/l_show_maker_l" target="_blank">
-    <img src="https://cdn.codechef.com/images/cc-logo.svg" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/profile/peeyushmaurya201" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="40" />
-  </a>
-</div>
+## Find me on
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/yourprofile)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&link=https://leetcode.com/yourprofile)](https://leetcode.com/yourprofile)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/yourprofile)](https://codeforces.com/profile/yourprofile)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&link=https://hackerrank.com/yourprofile)](https://hackerrank.com/yourprofile)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&link=https://www.codechef.com/users/yourprofile)](https://www.codechef.com/users/yourprofile)
 
 
 >  “Code is my canvas, and every project is a new masterpiece in the making.”

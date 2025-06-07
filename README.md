@@ -47,22 +47,23 @@ I’m a 3rd-year B.Tech Computer Science student who’s passionate about turnin
 
 ## Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/peeyushmaurya" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<p align="center" style="display:flex; justify-content:center; gap:25px; align-items:center; margin:0; padding:0;">
+  <a href="https://linkedin.com/in/peeyushmaurya" target="blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="display:block; vertical-align:middle;" />
   </a>
-  <a href="https://leetcode.com/BobKurba" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  <a href="https://leetcode.com/BobKurba" target="blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="display:block; vertical-align:middle;" />
   </a>
-  <a href="https://codeforces.com/profile/opt1mal" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+  <a href="https://codeforces.com/profile/opt1mal" target="blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" style="display:block; vertical-align:middle;" />
   </a>
-  <a href="https://www.hackerrank.com/profile/peeyushmaurya201" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  <a href="https://www.hackerrank.com/profile/peeyushmaurya201" target="blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" style="display:block; vertical-align:middle;" />
   </a>
-  <a href="https://www.codechef.com/users/l_show_maker_l" target="_blank">
-    <img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" height="60" width="90" />
+  <a href="https://www.codechef.com/users/l_show_maker_l" target="blank" style="text-decoration:none;">
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" height="60" width="90" style="display:block;" />
   </a>
 </p>
+
 
 >  “Code is my canvas, and every project is a new masterpiece in the making.”

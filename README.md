@@ -18,13 +18,23 @@ I’m a 3rd-year B.Tech Computer Science student who’s passionate about turnin
 
 ##  Interests
 
-- **Algorithms & DSA** – Tackling LeetCode puzzles and optimizations  
+- **Algorithms & DSA** – Tackling LeetCode puzzles and optimizations
 - **Web & Mobile** – Crafting interfaces in React.js and small apps  
 - **DevOps & Containers** – Streamlining workflows with Docker  
 - **Open Source & Community** – Contributing, collaborating, growing  
 - **Hackathons & Sprints** – Building under pressure, learning fast  
 
 ---
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,git,docker,postgres" />
+</div>
+
+---
+
+## Dashboard
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Peeyush-04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="420"/>
@@ -34,6 +44,30 @@ I’m a 3rd-year B.Tech Computer Science student who’s passionate about turnin
 </div>
 
 ---
-```
- “Code is my canvas, and every project is a new masterpiece in the making.”  
-```
+
+## Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/peeyushmaurya" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/BobKurba/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/opt1mal" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Codeforces_logo.svg" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/l_show_maker_l" target="_blank">
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/peeyushmaurya201" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="40" />
+  </a>
+</div>
+
+
+>  “Code is my canvas, and every project is a new masterpiece in the making.”

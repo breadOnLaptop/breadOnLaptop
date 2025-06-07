@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00C9FF&center=true&vCenter=true&width=600&lines=Peeyush+Maurya;3rd-Year+CSE+Student;Full+Stack+&+Algo+Enthusiast" alt="Typing Title"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00C9FF&center=true&vCenter=true&width=600&lines=Peeyush+Maurya;3rd-Year+CSE+Student;Full+Stack+Software+Developer+&+Algo+Enthusiast" alt="Typing Title"/>
 </div>
 
 # Peeyush here!

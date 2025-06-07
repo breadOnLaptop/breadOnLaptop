@@ -1,72 +1,40 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=4000&color=00C9FF&center=true&vCenter=true&width=600&lines=Software+Developer;React+Native+|+C%2B%2B+|+Java;Competitive+Programmer;AI+Enthusiast" alt="Animated Intro"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00C9FF&center=true&vCenter=true&width=600&lines=Peeyush+Maurya;3rd-Year+CSE+Student;Full+Stack+&+Algo+Enthusiast" alt="Typing Title"/>
 </div>
 
-# 👋 Hi, I'm **Peeyush**
+# 👋 Hey, I’m Peeyush!
 
-I’m a forward-thinking Software Developer focused on crafting clean, efficient code and innovative solutions. My expertise spans **React Native**, **C++**, **Java**, and Competitive Programming.
-
----
-
-## 🚀 About Me
-
-I build software that not only solves today's problems but also anticipates tomorrow's challenges.
+I’m a 3rd-year B.Tech Computer Science student who’s passionate about turning ideas into code.  
 
 ---
 
-## 🎯 Interests
+## 💭 Who I Am
 
-- **Mobile Development:** Crafting seamless apps with React Native.
-- **Algorithmic Excellence:** Solving complex challenges elegantly.
-- **Scalable Systems:** Developing robust systems with Java and C++.
-- **AI & ML:** Integrating smart solutions for a better future.
+- A curious learner always exploring new tech.  
+- A problem-solver who loves diving into algorithms & data structures.  
+- An advocate for clean, readable code and continuous improvement.  
 
 ---
 
-## 🛠️ Tech Stack
+## 🌟 My Interests
+
+- **Algorithms & DSA** – Tackling LeetCode puzzles and optimizations  
+- **Web & Mobile** – Crafting interfaces in React.js and small apps  
+- **DevOps & Containers** – Streamlining workflows with Docker  
+- **Open Source & Community** – Contributing, collaborating, growing  
+- **Hackathons & Sprints** – Building under pressure, learning fast  
+
+---
+
+## 📊 Dashboard
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,react,js,html,css,python,git,vscode,androidstudio" alt="Tech Stack" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Peeyush-04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peeyush-04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Peeyush-04&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="720"/>
 </div>
 
 ---
 
-## 📁 Projects
-
-- **UniUnite:** A dynamic platform for peer-to-peer interactions built with React Native.
-- **File Finder App:** A high-performance tool for streamlined file searches.
-- **Smart Slum Initiative:** Data-driven solutions aimed at urban transformation.
-- **C/CPP Animations:** A collection of graphical and algorithmic animations implemented using C and C++ to visualize complex concepts.
--  **Networking:** A Cisco Packet Tracer-based project demonstrating IP addressing, static routing, and inter-network communication between multiple buildings.
-- **Smart Process Manager:** A system designed to optimize and automate task management for improved efficiency and workflow.
----
-
-## 🔗 Let's Connect
-
-<div align="center">
-  <a href="https://github.com/Peeyush-04" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/peeyushmaurya" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:peeyushmaurya2004@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="40" height="40">
-  </a>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Peeyush-04&show_icons=true&theme=dark" alt="GitHub Stats" width="400">
-</div>
-
-<div align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peeyush-04&layout=compact&theme=dark" alt="Top Languages" width="400">
-</div>
-
-> "Coding the future, one line at a time."
+> “Code is my canvas, and every project is a new masterpiece in the making.”  

@@ -40,7 +40,11 @@ I’m a 3rd-year B.Tech Computer Science student who’s passionate about turnin
   <img src="https://github-readme-stats.vercel.app/api?username=Peeyush-04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="420"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peeyush-04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Peeyush-04&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="720"/>
+  <img 
+  src="https://streak-stats.demolab.com/?user=Peeyush-04&theme=tokyonight&hide_border=true" 
+  alt="GitHub Streak" 
+  width="720"
+  />
 </div>
 
 ---

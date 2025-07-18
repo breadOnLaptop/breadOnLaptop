@@ -29,7 +29,7 @@ I’m a 3rd-year B.Tech Computer Science student who’s passionate about turnin
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,git,docker,postgres,go" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,go,js,react,nodejs,git,docker,postgres,mongodb" />
 </div>
 
 ---

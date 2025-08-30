@@ -37,8 +37,8 @@ I’m a 3rd-year B.Tech Computer Science student who’s passionate about turnin
 ## Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Peeyush-04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peeyush-04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=breadOnLaptop&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breadOnLaptop&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300"/>
   <br/>
 </div>
 

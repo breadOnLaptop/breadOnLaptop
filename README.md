@@ -49,13 +49,13 @@ I’m a 3rd-year B.Tech Computer Science student who’s passionate about turnin
 <p align="center">
   <a href="https://linkedin.com/in/peeyushmaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peeyushmaurya" height="30" width="40"></a>
   <img width="25">
-  <a href="https://leetcode.com/BobKurba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="BobKurba" height="30" width="40"></a>
+  <a href="https://leetcode.com/breadOnLaptop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="breadOnLaptop" height="30" width="40"></a>
   <img width="25">
   <a href="https://codeforces.com/profile/opt1mal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="opt1mal" height="30" width="40"></a>
   <img width="25">
   <a href="https://www.hackerrank.com/profile/peeyushmaurya201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="peeyushmaurya201" height="30" width="40"></a>
   <img width="25">
-  <a href="https://www.codechef.com/users/l_show_maker_l" target="blank"> <img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="l_show_maker_l" height="60" width="90" /> </a>
+  <a href="https://www.codechef.com/users/breadonlaptop" target="blank"> <img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="breadonlaptop" height="60" width="90" /> </a>
 </p>
 
 
